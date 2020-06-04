@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SimpleXamarinApp_UG.MainPage" Title="MainPage">
+    <StackLayout BackgroundColor="#FAE420" Padding="60" VerticalOptions="Center">
+        <Image Source="firstOsiolek.JPG" HeightRequest="200"/>
+        <Button Text="Lukownictwo" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked2">
+        </Button>
+        <Button Text="Bejtownictwo" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked3">
+        </Button>
+        <Button Text="Przykucnictwo" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked4">
+        </Button>
+        <Button Text="Mimikownictwo" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked5">
+        </Button>
+    </StackLayout>
+</ContentPage>  
