@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SimpleXamarinApp_UG.AddNewPage" Title="Dodawanko">
+    <StackLayout BackgroundColor="#489CFE" Padding="60" VerticalOptions="Center">
+        <Image Source="piontyOsiolek.jpg" HeightRequest="200"/>
+        <Button Text="Main Page" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked">
+        </Button>
+        <Button Clicked="AddOpisik_OnClicked" Text="Main Page" BackgroundColor="Blue">
+        </Button>
+        <Entry x:Name="entryNazwa" Text="Nazwa stronki" />
+        <Editor x:Name="editorTresc" Text="Tresc opisiku" />
+    </StackLayout>
+</ContentPage>

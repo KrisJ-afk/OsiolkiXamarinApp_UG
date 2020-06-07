@@ -10,5 +10,7 @@
         </Button>
         <Button Text="Mimikownictwo" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked5">
         </Button>
+        <Button Text="Nowe opiski" BackgroundColor="Blue" Clicked="NavigateButton_OnClicked6">
+        </Button>
     </StackLayout>
 </ContentPage>  

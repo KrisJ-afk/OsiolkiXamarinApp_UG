@@ -9,5 +9,6 @@
                 <Label Text="111111"  HorizontalTextAlignment="Start" VerticalTextAlignment="Center" HeightRequest="300" x:Name="lblText"/>
             </StackLayout>
         </Frame>
+        <!--<Button Text="Usuwanko" BackgroundColor="Red" Clicked="NavigateButton_OnClicked"></Button>-->
     </StackLayout>
 </ContentPage>  

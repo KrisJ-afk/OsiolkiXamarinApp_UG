@@ -1,0 +1,12 @@
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\bin\Debug\netstandard2.0\SimpleXamarinApp_UG.deps.json
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\bin\Debug\netstandard2.0\SimpleXamarinApp_UG.dll
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\SimpleXamarinApp_UG.csprojAssemblyReference.cache
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\AddNewPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\FifthPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\FourthPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\ThirdPage.xaml.g.cs
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\SimpleXamarinApp_UG.AssemblyInfoInputs.cache
+C:\Users\krzju\OneDrive\Pulpit\Kris\UG\sem6\xamarin_figma\SimpleXamarinApp_UG\SimpleXamarinApp_UG\obj\Debug\netstandard2.0\SimpleXamarinApp_UG.AssemblyInfo.cs

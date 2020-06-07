@@ -4,8 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace SimpleXamarinApp_UG
@@ -46,6 +44,11 @@ namespace SimpleXamarinApp_UG
         {
             await Navigation.PushAsync(new FifthPage(opisyPszepienkne.
                 FirstOrDefault(x => x.Name.Equals("Mimikownictwo")).Tresc));
+        }
+
+        private async void NavigateButton_OnClicked6(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AddNewPage());
         }
     }
 }
